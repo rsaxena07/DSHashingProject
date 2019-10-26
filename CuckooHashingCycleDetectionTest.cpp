@@ -22,28 +22,33 @@ int main(){
 	cHT.printHashTable();
 
 	cout<<endl<<"Insert 7"<<endl;
-	insert = cHT.insertKey(18);
+	insert = cHT.insertKey(7);
 	if (!insert) {
 		cout<<"Insert Failed"<<endl;
 	}
 
 	cHT.printHashTable();
 	cout<<endl<<"Insert 13"<<endl;
-	insert = cHT.insertKey(18);
+	insert = cHT.insertKey(13);
 	if (!insert) {
 		cout<<"Insert Failed"<<endl;
 	}
 	cHT.printHashTable();
 
-
-	cHT.printHashTable();
 	cout<<endl<<"Insert 15"<<endl;
-	insert = cHT.insertKey(18);
+	insert = cHT.insertKey(15);
+	if (!insert) {
+		cout<<"Insert Failed"<<endl;
+	}
+	
+	cHT.printHashTable();
+	cout<<endl<<"Insert 66"<<endl;
+	insert = cHT.insertKey(66);
 	if (!insert) {
 		cout<<"Insert Failed"<<endl;
 	}
 	cHT.printHashTable();
-	
+
 	/*
 	cout<<endl<<"Insert 18"<<endl;
 	insert = cHT.insertKey(18);
