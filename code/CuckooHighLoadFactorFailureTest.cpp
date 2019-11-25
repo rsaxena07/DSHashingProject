@@ -5,8 +5,6 @@
 
 	Title: Cuckoo Hashing High Alpha Test Suite
 	Author: Rishabh Saxena
-	UCInetID: rsaxena3
-	Student ID: 72844211 
 
 */
 #include<iostream>
