@@ -5,8 +5,6 @@
 
 	Title: Hashing Algorithms Test Suite
 	Author: Rishabh Saxena
-	UCInetID: rsaxena3
-	Student ID: 72844211 
 
 */
 /*	Header Files include	*/

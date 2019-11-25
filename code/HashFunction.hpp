@@ -5,8 +5,6 @@
 
 	Title: Hash Function Implementation
 	Author: Rishabh Saxena
-	UCInetID: rsaxena3
-	Student ID: 72844211 
 
 */
 #ifndef INCLUDE_HASH_FUNCTION
