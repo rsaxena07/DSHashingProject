@@ -5,8 +5,6 @@
 
 	Title: Cuckoo Hashing Implementation
 	Author: Rishabh Saxena
-	UCInetID: rsaxena3
-	Student ID: 72844211 
 
 */
 
